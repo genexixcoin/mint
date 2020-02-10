@@ -1,5 +1,5 @@
 <p>
-<img src="https://avatars2.githubusercontent.com/u/60882661?s=400&u=6f7e71e0e5a42ddf96f31f2a08faf16fa899064a&v=4">
+<img src="https://avatars2.githubusercontent.com/u/60882661?s=460&v=4">
 </p>
 
 # GeneXiX Coin "GEXX" Token v2
